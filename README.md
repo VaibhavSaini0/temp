@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  ██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗   ║
@@ -16,6 +17,7 @@
 ║                                 [ SAINI ]  v2026.12      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=00FFCC&center=true&vCenter=true&multiline=false&width=750&lines=Next.js+%7C+TypeScript+%7C+Node.js+%7C+GraphQL+%7C+PostgreSQL;Real-time+WebSocket+%E2%80%94+sub-100ms+state+sync+%E2%9A%A1;600%2B+DSA+problems+and+still+grinding+%F0%9F%94%A5;4+live+production+projects+%E2%80%94+zero+outages+%F0%9F%94%92;Building+scalable+systems+that+don't+break+at+3AM+%F0%9F%8C%99" />
 
 </div>
