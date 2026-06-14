@@ -7,15 +7,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗    ███████╗       ║
-║  ██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║    ██╔════╝       ║
-║  ██║   ██║███████║██║██████╔╝███████║███████║██║   ██║    ███████╗       ║
-║  ╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝    ╚════██║       ║
-║   ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝     ███████║       ║
-║    ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚══════╝       ║
-║                                                  [ SAINI ]  v2026.12      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  ██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗   ║
+║  ██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║   ║
+║  ██║   ██║███████║██║██████╔╝███████║███████║██║   ██║   ║
+║  ╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝   ║
+║   ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝    ║
+║    ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ║
+║                                 [ SAINI ]  v2026.12      ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=00FFCC&center=true&vCenter=true&multiline=false&width=750&lines=Next.js+%7C+TypeScript+%7C+Node.js+%7C+GraphQL+%7C+PostgreSQL;Real-time+WebSocket+%E2%80%94+sub-100ms+state+sync+%E2%9A%A1;600%2B+DSA+problems+and+still+grinding+%F0%9F%94%A5;4+live+production+projects+%E2%80%94+zero+outages+%F0%9F%94%92;Building+scalable+systems+that+don't+break+at+3AM+%F0%9F%8C%99" />
@@ -81,6 +81,7 @@ const vaibhav: Developer = {
         ◈ API response time cut by ~30% across 5+ modules
         ◈ Reusable React component libraries — JWT auth + SSR pipelines
         ◈ >95% on-time delivery across 4 agile sprint cycles + CI/CD
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   [02]  EXPLORIN                                         JUL 2025 → AUG 2025
         Full Stack Developer Intern
@@ -89,6 +90,7 @@ const vaibhav: Developer = {
         ◈ Core Web Vitals boosted via memoization + React Query caching
         ◈ OAuth 2.0 + RBAC across 6+ protected routes
         ◈ SSR/SSG with Next.js App Router — TTFB significantly reduced
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
@@ -245,13 +247,12 @@ const vaibhav: Developer = {
 ║ # ║  ACHIEVEMENT                                               ║  STATUS  ║
 ╠═══╬════════════════════════════════════════════════════════════╬══════════╣
 ║ 1 ║  600+ DSA problems — LeetCode · GFG · HackerRank          ║  ██████  ║
-║ 2 ║  4 production full-stack apps — all live on Vercel         ║  ██████  ║
-║ 3 ║  API latency cut ~30% @ TechBuzz Ideas LLP                 ║  ██████  ║
-║ 4 ║  Dashboard perf boosted 35% via Prisma query tuning        ║  ██████  ║
-║ 5 ║  sub-100ms WebSocket sync — 50+ concurrent bidders         ║  ██████  ║
-║ 6 ║  Zero production outages across all shipped projects       ║  ██████  ║
-║ 7 ║  Mentored 5+ junior devs in debugging & agile workflows    ║  ██████  ║
-║ 8 ║  10,000+ lines of production TypeScript shipped            ║  ██████  ║
+║ 2 ║  API latency cut ~30% @ TechBuzz Ideas LLP                 ║  ██████  ║
+║ 3 ║  Dashboard perf boosted 35% via Prisma query tuning        ║  ██████  ║
+║ 4 ║  sub-100ms WebSocket sync — 50+ concurrent bidders         ║  ██████  ║
+║ 5 ║  Zero production outages across all shipped projects       ║  ██████  ║
+║ 6 ║  Mentored 5+ junior devs in debugging & agile workflows    ║  ██████  ║
+║ 7 ║  10,000+ lines of production TypeScript shipped            ║  ██████  ║
 ╚═══╩════════════════════════════════════════════════════════════╩══════════╝
 ```
 
